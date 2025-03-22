@@ -1,0 +1,101 @@
+# hmmsearch :: search profile(s) against a sequence database
+# HMMER 3.1b2 (February 2015); http://hmmer.org/
+# Copyright (C) 2015 Howard Hughes Medical Institute.
+# Freely distributed under the GNU General Public License (GPLv3).
+# - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+# query HMM file:                  PF00476.hmm
+# target sequence database:        protein_elegans.faa
+# - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+
+Query:       DNA_pol_A  [M=381]
+Accession:   PF00476.25
+Description: DNA polymerase family A
+Scores for complete sequences (score includes all domains):
+   --- full sequence ---   --- best 1 domain ---    -#dom-
+    E-value  score  bias    E-value  score  bias    exp  N  Sequence       Description
+    ------- ------ -----    ------- ------ -----   ---- --  --------       -----------
+    4.2e-96  322.8   0.0    6.4e-96  322.2   0.0    1.3  1  NP_001367994.1  DNA polymerase theta [Caenorhabditis elegans]
+    5.9e-14   52.5   0.0    7.2e-07   29.1   0.0    2.4  2  NP_496592.1     DNA-directed DNA polymerase [Caenorhabditis e
+
+
+Domain annotation for each sequence (and alignments):
+>> NP_001367994.1  DNA polymerase theta [Caenorhabditis elegans]
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !  322.2   0.0  4.5e-100   6.4e-96       5     381 .]    1239    1601 ..    1235    1601 .. 0.93
+
+  Alignments for each domain:
+  == domain 1  score: 322.2 bits;  conditional E-value: 4.5e-100
+                      HHHHHHHHHHHHHHHHHHHHHSSCE-STTTCCCCHHHHTCCCCS.T.....SSBSTTS.BTTTHHHHHHHTS.T-HHHHHHHHHHHHHHHHHH CS
+       DNA_pol_A    5 eelseeleeelkelekeiyelageefnlnSpkqLgevLfeklklpk.....kkktktg.ystdeevLeklaaeehpivkkileyrelaklkst 91  
+                      +++  ++++++++le++i++la  +fn++S++++++vLf +l+l         k k     t++ +Le++ +++hpiv kileyr++++  ++
+  NP_001367994.1 1239 NSFIYKIRKQIENLEENIWRLAYGKFNIHSSNEVANVLFYRLGLIYpetsgC-KPKLRhLPTNKLILEQM-NTQHPIVGKILEYRQIQHTLTQ 1329
+                      56677899**************977******************644334422.33433488*********.67******************** PP
+
+                      TTTTGGGGCBTTTSEE--EEESSSSSSSS-EEESS-GGGS-TT.SCCHHHHHHTBCGSTTCCEEEEEEETTHHHHHHHHHCT-HHHHHHHHTT CS
+       DNA_pol_A   92 yvdallklinpktgrihtsfnqtvtaTGrlsssePNLqnipir.teegreiRkafvaeeegvlllsaDYsqiELrilAhlsgdeeLieafkeg 183 
+                       + +l k+i    grih+ f +++t+TGr+  s PNLqn+p r +++g + R++f+a++ ++ll+ aDY+q+ELr+lAhls+d++L++ ++++
+  NP_001367994.1 1330 CLMPLAKFI----GRIHCWF-EMCTSTGRILTSVPNLQNVPKRiSSDGMSARQLFIANS-ENLLIGADYKQLELRVLAHLSNDSNLVNLITSD 1416
+                      *********....8****99.799*****************97357899*********9.788****************************** PP
+
+                      H-HHHHHHHHHCTS-GGGHHHHHHHHHHHHHHHHHTT--HHHHHHHHTSSHHHHHHHHHHHHHHSHHHHHHHHHHHHHCCCESCCEETTCSEE CS
+       DNA_pol_A  184 eDiHtatAsevfgvpleevtkeqRrkaKavnFgiiYGisafgLaeqlgisrkeAkeliekYferypgvkeyleetveeakekgyvetllgRrr 276 
+                      +D++++++ ++            R+++K++++g+iYG++a++L+e +++s ++A+++++++f+ +pgv++y++et+e++ +++ ++t++gRr 
+  NP_001367994.1 1417 RDLFEELSIQWNFP---------RDAVKQLCYGLIYGMGAKSLSELTRMSIEDAEKMLKAFFAMFPGVRSYINETKEKVCKEEPISTIIGRRT 1500
+                      ***********886.........********************************************************************** PP
+
+                      EECTTT-CCHCCCHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHTT-SEEEEEEETTEEEEEEECCCHHHHHHHHHHHHHHHHHTTSSS-- CS
+       DNA_pol_A  277 ylpeinsknkalrsaaeraAiNapiQGsaADiiklamikvekalkeeklkarlllqvHDELvfevpeeeleevaelvkeemekeaavklkVpl 369 
+                       ++   s   ++r++ er+A+N++iQGsa++i k+a++++e+++ke +  a+++l++HDE+++e+pe ++++++e ++++m+++ +  l+Vp+
+  NP_001367994.1 1501 IIK--ASGIGEERARIERVAVNYTIQGSASEIFKTAIVDIESKIKEFG--AQIVLTIHDEVLVECPEIHVAAASESIENCMQNALSHLLRVPM 1589
+                      *94..567778999******************************9886..9*******************************999999***** PP
+
+                      EEEEEEESSCTC CS
+       DNA_pol_A  370 kvevkvGknwge 381 
+                      +v++k+G++w++
+  NP_001367994.1 1590 RVSMKTGRSWAD 1601
+                      **********85 PP
+
+>> NP_496592.1  DNA-directed DNA polymerase [Caenorhabditis elegans]
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !   20.7   0.0   1.8e-08   0.00026     180     272 ..     723     821 ..     659     831 .. 0.67
+   2 !   29.1   0.0     5e-11   7.2e-07     290     350 ..     937     997 ..     924    1010 .. 0.89
+
+  Alignments for each domain:
+  == domain 1  score: 20.7 bits;  conditional E-value: 1.8e-08
+                  H.........HTTH-HHHHHHHHHCTS-GGGHHHHHHHHHHHHHHHHHTT--HHHHHHHH....TSSHHHHHHHHHHHHHHSH.HHHHHHH.HHHHHC CS
+    DNA_pol_A 180 f.........kegeDiHtatAsevfgvpleevtkeqRrkaKavnFgiiYGisafgLaeql....gisrkeAkeliekYferyp.gvkeyle.etveea 262
+                  f         ++++D+H+ +As++            R++aK +n++ +YG ++++  ++l    g++++eA+++ ++ f+  +  v +y++ +++ ++
+  NP_496592.1 723 FsnmmlagskSDNTDLHSVVASQLKIS---------RNHAKVLNYARLYGSGETHAGKHLmrvgGLKQSEAESTASQLFKLTKgDVAKYMKvDVRMNC 811
+                  23333333334477********99875.........*****************9999998666579***********99988736****983455666 PP
+
+                  CCESCCEETT CS
+    DNA_pol_A 263 kekgyvetll 272
+                    ++y+e ++
+  NP_496592.1 812 VVDKYIEEMV 821
+                  6677776665 PP
+
+  == domain 2  score: 29.1 bits;  conditional E-value: 5e-11
+                  HHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHTT-SEEEEEEETTEEEEEEECCCHHHHH CS
+    DNA_pol_A 290 saaeraAiNapiQGsaADiiklamikvekalkeeklkarlllqvHDELvfevpeeeleeva 350
+                  ++ +r+ +N+++Q+sa D ++l +++++   ++ k++ar ++ +HDE+ + ++e ++ ++a
+  NP_496592.1 937 RKYKRSVMNWIVQSSAVDFLHLLLVSMQWLCDTYKIDARFVISIHDEVRYMCKEPDAPRLA 997
+                  5679************************************************999888776 PP
+
+
+
+Internal pipeline statistics summary:
+-------------------------------------
+Query model(s):                              1  (381 nodes)
+Target sequences:                        28589  (13590138 residues searched)
+Passed MSV filter:                      1377  (0.0481654); expected 571.8 (0.02)
+Passed bias filter:                      549  (0.0192032); expected 571.8 (0.02)
+Passed Vit filter:                        45  (0.00157403); expected 28.6 (0.001)
+Passed Fwd filter:                         2  (6.9957e-05); expected 0.3 (1e-05)
+Initial search space (Z):              28589  [actual number of targets]
+Domain search space  (domZ):               2  [number of targets reported over threshold]
+# CPU time: 0.45u 0.03s 00:00:00.48 Elapsed: 00:00:00.78
+# Mc/sec: 6638.26
+//
+[ok]
