@@ -1,0 +1,338 @@
+CLUSTAL O(1.2.4) multiple sequence alignment
+
+
+NP_445980.2            ------------------------------------------------------------	0
+NP_496592.1            ------------------------------------------------------------	0
+DNA_pol_A-sample1      ------------------------------------------------------------	0
+NP_001099348.1         MSLPRRSGKRRRSSSGSDSFSFSGDGDSCVSPQLLCRPVLSPPPGLGRGRRLAGTGTCKQ	60
+NP_001367994.1         ------------------------------------------------------------	0
+                                                                                   
+
+NP_445980.2            ------------------------------------------------------------	0
+NP_496592.1            ------------------------------------------------------------	0
+DNA_pol_A-sample1      ------------------------------------------------------------	0
+NP_001099348.1         RVSDDQIDQLLLANWGLPKAVLEKYHNFGVKKMFEWQAECLLLGQVLEGKNLVYSAPTSA	120
+NP_001367994.1         ----MDEASCRFPEWVS-SKIIDYYAEQNIKALFDWQIDVLNEARQFEDQHLIFSAPTSA	55
+                                                                                   
+
+NP_445980.2            ------------------------------------------------------------	0
+NP_496592.1            ------------------------------------------------------------	0
+DNA_pol_A-sample1      ------------------------------------------------------------	0
+NP_001099348.1         GKTLVAELLILKRVLETRKKALFILPFVSVAKEKKYYLQSLFQEVGIKVDGYMGSTSPTG	180
+NP_001367994.1         GKSIVAELLSWK-VASTGRKVLFVLPYISVAREKLHQIQRCWRRDDISVCGFIGPQASNP	114
+                                                                                   
+
+NP_445980.2            ------------------------------------------------------------	0
+NP_496592.1            ------------------------------------------------------------	0
+DNA_pol_A-sample1      ------------------------------------------------------------	0
+NP_001099348.1         RFSSLDVAVCTIERANGLINRLIEENKMDLLGTVVVDELHMLGDSHRGYLLELLLTKVCF	240
+NP_001367994.1         --NEWLGAVCTIEKAASLTNRALSEDWFEEIGMIVVDEMHMVFDSSRGAHIEHMLSKVLL	172
+                                                                                   
+
+NP_445980.2            ------------------------------------------------------------	0
+NP_496592.1            ------------------------------------------------------------	0
+DNA_pol_A-sample1      ------------------------------------------------------------	0
+NP_001099348.1         VTRKSASCQADSASALACAVQIVGMSATLPNLQLVASWLNA-ELYHTDFRPVPLLESIKV	299
+NP_001367994.1         WNQS-----------ALEKVRIIGMSATIPELYRIGKWLDGAKVFEARFRPIVLQNHIVI	221
+                                                                                   
+
+NP_445980.2            ------------------------------------------------------------	0
+NP_496592.1            ------------------------------------------------------------	0
+DNA_pol_A-sample1      ------------------------------------------------------------	0
+NP_001099348.1         GNSIYDSSM-KLVREFQPLLQVKGDEDHIVSLCYETVRDNHSVLVFCPSKKWCEKVADII	358
+NP_001367994.1         GSELRKSGDNKVLREFS--------EDPLILLTEESFRRNSQTLVMISSKLDAEKTALNI	273
+                                                                                   
+
+NP_445980.2            ------------------------------------------------------------	0
+NP_496592.1            ------------------------------------------------------------	0
+DNA_pol_A-sample1      ------------------------------------------------------------	0
+NP_001099348.1         AREFYNLHHQPEGLVKSSEFPPVILDQ-KSLLEVIDQLKRSPSGLDSVLKNTVPWGVAFH	417
+NP_001367994.1         ASRFHEINKTDSSLLE------ILKERANGLLFIKHGLER-NGCKDRNVMSTLAWGVAYH	326
+                                                                                   
+
+NP_445980.2            ------------------------------------------------------------	0
+NP_496592.1            ------------------------------------------------------------	0
+DNA_pol_A-sample1      ------------------------------------------------------------	0
+NP_001099348.1         HAGLTFEERDIIEGAFRQGLIRVLAATSTLSSGVNLPARRVIIRTPVFGGQPLDILTYKQ	477
+NP_001367994.1         HAGLTMEERECIELGFREKNIVILVATSTLASGVNLPAERVLIKAQPRGPSALTSLNYRQ	386
+                                                                                   
+
+NP_445980.2            ------------------------------------------------------------	0
+NP_496592.1            ------------------------------------------------------------	0
+DNA_pol_A-sample1      ------------------------------------------------------------	0
+NP_001099348.1         MVGRAGRKGVDTMGESILVCKNSEKSKGIALLQGSLEPVHSCLQSQGEVTSTMIRAILEI	537
+NP_001367994.1         MVGRAGRTGHATRGETYLLIKKCDRDAVLKIIETPIDQGVLTR-KRDAERTNLSRFILEG	445
+                                                                                   
+
+NP_445980.2            ------------------------------------------------------------	0
+NP_496592.1            ------------------------------------------------------------	0
+DNA_pol_A-sample1      ------------------------------------------------------------	0
+NP_001099348.1         IVSGVASTSQDMQTYAACTFLAADVKEGKQGIQRNRDDVQRGAVDACVTWLLENEFIQAA	597
+NP_001367994.1         ICTGLTTTRSQIH--DLCKLLLFN-----------SENL--QLSDIAIEMLLRNSFISQD	490
+                                                                                   
+
+NP_445980.2            ------------------------------------------------------------	0
+NP_496592.1            ------------------------------------------------------------	0
+DNA_pol_A-sample1      ------------------------------------------------------------	0
+NP_001099348.1         EPSDGTGGKVYHPTHLGSATLSSSLSPTDTLDIFADLQRAMKGFVLENDLHIVYLVTPVF	657
+NP_001367994.1         E-----NDDQLSPTQLGRAAIASSLPPEASLAIFEDLNSASRAIALDTELHMLYLVTPIN	545
+                                                                                   
+
+NP_445980.2            ------------------------------------------------------------	0
+NP_496592.1            ------------------------------------------------------------	0
+DNA_pol_A-sample1      ------------------------------------------------------------	0
+NP_001099348.1         -EDWTSIDWYRFFCLWEKLPTSMKRVAELVGVEEGFLARCVKGKVVARTERQHRQMAIHK	716
+NP_001367994.1         VSVWQECDWHHLFSIFSKLPSDHKRIAKLVGVSEKFILDQLQGR------RNDKLLQIHI	599
+                                                                                   
+
+NP_445980.2            ------------------------------------------------------------	0
+NP_496592.1            ------------------------------------------------------------	0
+DNA_pol_A-sample1      ------------------------------------------------------------	0
+NP_001099348.1         RFFTSLVLLDLISEIPLKEINQKYGCNRGQIQSLQQSAAVYAGMITVFSNRLGWHNMELL	776
+NP_001367994.1         RFFSALALFDLISEMSIYEVSHKYRIPRGCLQTLQSQSATYAAMIVAFCLRLGWTYLKAL	659
+                                                                                   
+
+NP_445980.2            ------------------------------------------------------------	0
+NP_496592.1            ------------------------------------------------------------	0
+DNA_pol_A-sample1      ------------------------------------------------------------	0
+NP_001099348.1         LSQFQKRLTFGIQRELCDLIRVSSLNAQRARFLYASGFLTVADLARADTVEVEAALKDAL	836
+NP_001367994.1         LDGFATRLLFGVRSELSELVAIEGIDGQRARILHERGVTCLSHLSACDSSKLAHFLTLAV	719
+                                                                                   
+
+NP_445980.2            ------------------------------------------------------------	0
+NP_496592.1            ------------------------------------------------------------	0
+DNA_pol_A-sample1      ------------------------------------------------------------	0
+NP_001099348.1         PFKSARKAVDEEEEAAEERRSMRTIWVAGKSLSAREAAA-LIVEEAKVILQQDLIEMGVQ	895
+NP_001367994.1         PYSSSNSNDG------------LGEWLFGEPRMRVDVAARTLKERARKVLIRRVQELGIS	767
+                                                                                   
+
+NP_445980.2            ------------------------------------------------------------	0
+NP_496592.1            ------------------------------------------------------------	0
+DNA_pol_A-sample1      ------------------------------------------------------------	0
+NP_001099348.1         WGPHSPLSSSTHSLTSGSEVKEHTFKSQTKSSHKRLASKSRNSMRVSGSNGKQSPEAGQG	955
+NP_001367994.1         VE-------------------LPKFEE--------------NEENIQESCDSGLPDSCEG	794
+                                                                                   
+
+NP_445980.2            ------------------------------------------------------------	0
+NP_496592.1            ------------------------------------------------------------	0
+DNA_pol_A-sample1      ------------------------------------------------------------	0
+NP_001099348.1         LDECRERPDSLCKFQGNHEIQTPSVYRARKRTSLGVNKEMLRTSLKEGKPSTKEVLQTLS	1015
+NP_001367994.1         MEDELEEKENIVKM----------------------------------------------	808
+                                                                                   
+
+NP_445980.2            ------------------------------------------------------------	0
+NP_496592.1            ------------------------------------------------------------	0
+DNA_pol_A-sample1      ------------------------------------------------------------	0
+NP_001099348.1         FEKTRKAALSFSSEQANNSFPSGRDRKYRKKSWGSSPMSDSVMHRDDLQGQTMCKSTLCE	1075
+NP_001367994.1         -EEMTKSVTEMSLTDNTISFKSE-------------------------------------	830
+                                                                                   
+
+NP_445980.2            ------------------------------------------------------------	0
+NP_496592.1            ------------------------------------------------------------	0
+DNA_pol_A-sample1      ------------------------------------------------------------	0
+NP_001099348.1         DPQKSLEEQNTEYRSPGLFAKNVSFCAKEKCNKTSFPLQMQQPCLRRKPESGAAVDHSVA	1135
+NP_001367994.1         ---------------DDLFKKEIKVE----------------------------------	841
+                                                                                   
+
+NP_445980.2            ------------------------------------------------------------	0
+NP_496592.1            ------------------------------------------------------------	0
+DNA_pol_A-sample1      ------------------------------------------------------------	0
+NP_001099348.1         VSQNKNVVEQPPGAPRDRRGLAAHGRAEVNEVLTENGTE--SQLHDTHPVSQCLENHSEK	1193
+NP_001367994.1         ----------------------------EDEVFIKKEIDEDEEEIVEETVIECLETSLLK	873
+                                                                                   
+
+NP_445980.2            ------------------------------------------------------------	0
+NP_496592.1            ------------------------------------------------------------	0
+DNA_pol_A-sample1      ------------------------------------------------------------	0
+NP_001099348.1         QTNTCTRQKTLTEGQAGISHVTRGSNDLTPIRCERLKLNSKE-HD--SNPCPQALGTNAG	1250
+NP_001367994.1         LKAS-----------TDEVFLRRLSQTFSPIGRSRSILNNSLLEDSFDRPVPR-------	915
+                                                                                   
+
+NP_445980.2            ---------------------------------------------------MSRLL----	5
+NP_496592.1            ------------------------------------------------------------	0
+DNA_pol_A-sample1      ------------------------------------------------------------	0
+NP_001099348.1         RTEAPQSSEALGQAGGQCENLLNSPGIQEKTSAHATNKTEHSHVANQAFCDFGDSLYLDT	1310
+NP_001367994.1         ------SS----------------------------------------------------	917
+                                                                                   
+
+NP_445980.2            -----WKKVAGAKVASGPVPATGRWVSSSVL--DPVPSDGQ----------------PQS	42
+NP_496592.1            ------------------------------------------------------------	0
+DNA_pol_A-sample1      ------------------------------------------------------------	0
+NP_001099348.1         QSEEIIEQMATKNATQGA-EAAGITEEGSATQNEPHSTTGGQHIPGAANTDHVDRKNTES	1369
+NP_001367994.1         --IPILNFITPKR---------------------------------------------ES	930
+                                                                                   
+
+NP_445980.2            QMPSSENGQLRLNPLHIQMLSRGLHEQI--FGCGGDVPDE-------------AAVQRSI	87
+NP_496592.1            -----------MRPPKIMQIFHVSRRQI--ATSKTSNF-----------------ERKTI	30
+DNA_pol_A-sample1      ------------------------------------------------------------	0
+NP_001099348.1         VKENPEKNIDR-RTPHS-LIFHSPTPQGGNSACFKENEHSVTDSQLNSFLQGLETQDKPI	1427
+NP_001367994.1         PTPYFEDSFDR-PIPGS-LPISSS--------------------RRKSVLTNIAN-----	963
+                                                                                   
+
+NP_445980.2            EHL--RKH-GLW----GQPTTPLPDVQLRLPRLFGGNLDQHFRLL--AQKQSLPYLEAAA	138
+NP_496592.1            ETVCPRVHNYLFPHVSAPSTSSAAEYTGVLPPLVADNVVDHFGVL--AEQQTRKYKELLE	88
+DNA_pol_A-sample1      ------------------------------------------------------------	0
+NP_001099348.1         IPLAPQMRT-----STGVEEESLPETSLNM---SDSILFDSFGEDSFGQRQSLDVKAKQP	1479
+NP_001367994.1         --LDSS------------RRES---INSNA---SDNNSFDVF------------------	985
+                                                                                   
+
+NP_445980.2            SLSEA---------QLPPQPRKWVW--------------------AEGWTRYGPEGE--A	167
+NP_496592.1            KACEFDLETAKNVLEHIDKTDGWHY--------------------KTGWTRYPFSTSEPP	128
+DNA_pol_A-sample1      ------------------------------------------------------------	0
+NP_001099348.1         LLSEM----TPNHFHNPPYPQEDPVMTPHMSEPQGTLERMA--CLSGESIIF--SEIDSA	1531
+NP_001367994.1         --------------VTPPTKSA-----------KEEKRRIAVKHPRVGNIIY--SPLTSS	1018
+                                                                                   
+
+NP_445980.2            EPVAIPEERALVF-DVEVC----------------------------LAEGTCPTLAVAI	198
+NP_496592.1            ETIDFPRDSILFF-DIELV----------------------------VRDGTLPTLAIAL	159
+DNA_pol_A-sample1      ------------------------------------------------------------	0
+NP_001099348.1         QVIEA-LDNMAAFYMQENCNPITLKTEPRDLAALGNECPQGEVVRGEQHEGSSKPKFMEI	1590
+NP_001367994.1         PVIKHPKLEINHFYLKDVCHDHNA------------------------------------	1042
+                                                                                   
+
+NP_445980.2            SPSAWYSWCSRRLVEERYS--------WTSQLSPADLIPLGVSASASSSTQQDWQEQLVV	250
+NP_496592.1            GRDAWYGWCSDRLIYESEI---------PEIPTKADLIPIGEIG----------MEKVII	200
+DNA_pol_A-sample1      ------------------------------------------------------------	0
+NP_001099348.1         NQDNSFTWSAASFNLSPELQRILDKVSTPRENEEPELMHADLSCF---------EENS--	1639
+NP_001367994.1         ----WNLWTKSSTSTSSCSIRVSDDY----------------------------------	1064
+                                                                                   
+
+NP_445980.2            GHNVSFDRAHIREQYL-IQGSRMRFLDTMSMHMAISGLSSFQRSLWMGAKQGKHKTQHPT	309
+NP_496592.1            GHNVGFDRARCREAYQSINGSKIRFMDTMSMSIPMYGMADHQQSLYEMYDVETNDSH---	257
+DNA_pol_A-sample1      ------------------------------------------------------------	0
+NP_001099348.1         --TESHERQDMNSDLGTVQ--RTSF-------LPSNGVKSRTEGLESKAKHGGASSALPH	1688
+NP_001367994.1         ------TGIAIRTD----A--GNTF-------IPLL------------ETFGGE------	1087
+                                                                                   
+
+NP_445980.2            KRGQKSQKN---ANGPAISSW-----DWMDISSANNLADVHNLYVGGP------RLAKEP	355
+NP_496592.1            --------------SDWMN-------AWKGRVSKNSLVAVHDHLYPDKAINAEGFSKKTM	296
+DNA_pol_A-sample1      ------------------------------------------------------------	0
+NP_001099348.1         KAAADDNGLIPPTPLPASASASASKLALPEILGTSVKHQKASCLFDSPSDNQNQDLSQEL	1748
+NP_001367994.1         -------------PSPASKYF----------------ESFSKCIIPLNT-----------	1107
+                                                                                   
+
+NP_445980.2            REL--FVKGSMRDIRE------NFQDLMEYCARD---------VWATFEVFQQQLPLFLE	398
+NP_496592.1            RAS--FVKDPIEQIRE------DFQPLMSYCARD---------NILCAEIYFRLWPEFIK	339
+DNA_pol_A-sample1      ------------------------------------------------------------	0
+NP_001099348.1         RDSLKDSDGSVVDTSFFLQSQDGLLLTQASCSSESLAIIDVASDQILFQTFVKEWQCQ-K	1807
+NP_001367994.1         --RLEFLKTLAVTVEMYISSM--------------------EDAFLIFEK----------	1135
+                                                                                   
+
+NP_445980.2            RCPHPVTLAGM--------LEMGVSYLPVNQNWERYLTEAQSTYEELQREMKKSLMELAN	450
+NP_496592.1            RFPHPATLSGM--------LNMGNVYLPINSYWKMFYEKNVQTCEQKKTAATRKIIESAR	391
+DNA_pol_A-sample1      ------------------------------------------------------------	0
+NP_001099348.1         RFSISLACEKMTSSTSSKTATIGGRLKQVNSPQEASVED--------------DGFPVHG	1853
+NP_001367994.1         -FGIKIFRLKV-------------------------------------------------	1145
+                                                                                   
+
+NP_445980.2            DACQLLSG-----ERYKEDPWLWDLEWDLQEFKQKKAKKVKKTASASKLPIEGAGPFGDP	505
+NP_496592.1            LVAKRLDDEGEEIGPEKNDVWMWHHDWTFNQKQSNF------------------------	427
+DNA_pol_A-sample1      ------------------------------------------------------------	0
+NP_001099348.1         SDCAVVVGL--------AVCWGGKDAYYLSLQKEQK--QSEMSPSL--------------	1889
+NP_001367994.1         ------------------------------------------------------------	1145
+                                                                                   
+
+NP_445980.2            MDQEDPGPPSEEEELQQNIMAHTRLQQLKSTTDLLPK--RPQHLPGHPGWYRKLCP----	559
+NP_496592.1            ------------------------------------------------EWFNKLFK----	435
+DNA_pol_A-sample1      ------------------------------------------------------------	0
+NP_001099348.1         ------APPPL----DATLTVKERMEYLQSCLQKKSDQERSVVTYDFIQTYKVL----LL	1935
+NP_001367994.1         ---------------------VRIAAYLNNVIDVEQEENSN-FLPILMDRYSILDPEIRK	1183
+                                                                                   
+
+NP_445980.2            --------RLD---DPAWTPGPS-----LLSLQMRVTPKLMALTWDGFPLHYSDSHGWGY	603
+NP_496592.1            --------ARSFVNLSLDEVDSH-----HIALKSHLIPAIFGFVFGPFPLFKTRSKGWGF	482
+DNA_pol_A-sample1      ------------------------------------------------------------	0
+NP_001099348.1         SCGISLEPSYEDPKVACWLLDPDSKEPTLHSIVTSFLPHELALL-------EGIETGPGI	1988
+NP_001367994.1         TCSSSLH----KAAVEVYSLKP--------------------------------------	1201
+                                                                                   
+
+NP_445980.2            LVPGRRDNLTELPVSPTEESAAVTCPYRAIESLYRRHCLDQGKQQLETQETDLAEEFLLT	663
+NP_496592.1            LVPNWKPVEKALQDPNFHEID-AKIDFK---------------------PDSAVKKFPLR	520
+DNA_pol_A-sample1      ------------------------------------------------------------	0
+NP_001099348.1         QSLGLNVN--------TDHSGRYRASVESVLIFNSMNQLNSMLQ-----KENLHDIFC--	2033
+NP_001367994.1         -------------------------------IFEKMCC---------------SGASL--	1213
+                                                                                   
+
+NP_445980.2            DSAMWQTV----EELGCLDVEAEATVESSGLSQPLVPPTA-----CAPKTSQPTYHH--G	712
+NP_496592.1            --SFYETVQNNVYMLGELPIS---------------PD----------------------	541
+DNA_pol_A-sample1      --------------------------------SSLSKELGATAQRRLQAKAAMTYMVRVP	28
+NP_001099348.1         ----------KVEMPSQYCLA-LLELNGIGFSTAECETQKHIMQAKLDAIETQAYQLAGH	2082
+NP_001367994.1         ----------QLEMESCQTVL-NIFYSGIVFDQALCNSFIYKIRKQIENLEENIWRLAYG	1262
+                                                                                   
+
+NP_445980.2            NGPYNDVDIPG-CWFFKLPHKDGNNYNV------------------------GSPFAKDF	747
+NP_496592.1            RKGF-ELDEAGLVRFYQLDHPSG-EGNV------------------------GDPLTKHF	575
+DNA_pol_A-sample1      QFSLLEPKQYGQGLFYQLRIEAPESTDI------------------------AFSTDDSA	64
+NP_001099348.1         SFSFTSADDIAQVLFLELKLPPNGEMKTQGGRKTLGSTRRGTESDRKLRLGRRFSTSKDI	2142
+NP_001367994.1         KFNIHSSNEVANVLFYRLGLIYPETS---GCK----------------PKLRHLPTNKLI	1303
+                            . .  .   * .*                                       .  
+
+NP_445980.2            LPKMEDGTLQAGPGGARGPRALEINKMISFWRNAHKRISSQMVVWLPRSALP-------R	800
+NP_496592.1            AKDLKELVLRPTRYEEYFDVVLDSIQTTQFWTSYSDRYCSEVAIWSPEATWR-------T	628
+DNA_pol_A-sample1      LSLLKKEFIISMI-------------LLQHYKSADY-----------DAKVASFYKQRLT	100
+NP_001099348.1         LNKLKDLHPLPGL-------------ILE-WRRISNAITKVVFPLQREKHLNPFLRM---	2185
+NP_001367994.1         LEQMNTQHPIVGK-------------ILE-YRQIQHTLTQCLMPLAKFI-----------	1338
+                          ::                       . :                             
+
+NP_445980.2            AVTRHPSFDEESHYGAILPQVVTAGTITRRAVEPTWLTASNARP----------------	844
+NP_496592.1            AE------NLEMIDGAIAAAVVPAGTISRRSVHKLWVTLTNQST----------------	666
+DNA_pol_A-sample1      KECKTEISFAGAATNRLSSPNINLKKITID------------------------------	130
+NP_001099348.1         -ERIYPVSQSHTATGRITFTEPNIQNVPRDFEIKMPTLVRESPPSQASGKGQLAMARQNQ	2244
+NP_001367994.1         -GRIHCWFEMCTSTGRILTSVPNLQNVPKRISS---------------------------	1370
+                                     . :        .:                                 
+
+NP_445980.2            --------------------DRVGSE-LKAMVQAPPGYVLVGADVDSQELWIAAVLGDAH	883
+NP_496592.1            -------------------GHVIGTG-IKAMVQAPAGYRLVGADVDSQEQWLAALYGDAS	706
+DNA_pol_A-sample1      ----------------------TETNARYRVVLIPKNVVETAIDYGQVELRDLAAQGGAP	168
+NP_001099348.1         KVYGLHPGQRTVLEKTSDRGVPFSVSMRHAFVPFPG-GLILAADYSQLELRILAHLSRDC	2303
+NP_001367994.1         ----------------------DGMSARQLFIANSE-NLLIGADYKQLELRVLAHLSNDS	1407
+                                                     .:         . *  . *    *  .   
+
+NP_445980.2            F-A-------GMHGCTAFGWMTLQGRKSRGTDLHSKTAATVGISREHAKVFNYGRIYGAG	935
+NP_496592.1            A-EKRLPLEKRVAGKTAFSNMMLAGSKSDNTDLHSVVASQLKISRNHAKVLNYARLYGSG	765
+DNA_pol_A-sample1      RMIRMYLQREDLHRFLARRIV--Q-------------TNQVAALVEGAKTVSYGLVYGGT	213
+NP_001099348.1         RLIQVLNSGADVFRSIAAEWKMIEP------------DAVGDNLRQQAKQICYGIIYGMG	2351
+NP_001367994.1         NLVNLITSDRDLFEELSIQWNFP---------------------RDAVKQLCYGLIYGMG	1446
+                                  :    :                            : .* . *. :**  
+
+NP_445980.2            QSFAERLLMQFNHRLSRQEAADKAQQMYAVTKGLRRYRLSDDGEWLVKQLNVPVDRTEDG	995
+NP_496592.1            ETHAGKHLMRVGGL-KQSEAESTASQLFKLTKGDVAKYMKVDV-----RMNCVVDKYIEE	819
+DNA_pol_A-sample1      AMGIGKED-----HTMQEHADNGLGDFVETYDMIKKVFMFDEFD------VKHDQGYQET	262
+NP_001099348.1         AKSLGEQM-----GIKENDAACYIDSFKSRYKGIN-HFMRDTVK------NCRRDGFVET	2399
+NP_001367994.1         AKSLSELT-----RMSIEDAEKMLKAFFAMFPGVR-SYINETKE------KVCKEEPIST	1494
+                            .           ..*      :           :               :   . 
+
+NP_445980.2            WVSLQDLRKI-------------RREASRKSRWKKWE-----------------------	1019
+NP_496592.1            MVENSDVCKILTIDGIYYMPAYTSQFASETVRFEDWLLSHYSSLLNGSSEPDSLIYSIYE	879
+DNA_pol_A-sample1      TFGRGQ-----------YNKFAQR------------------------------------	275
+NP_001099348.1         ILGRRR-----------YLPGIKD------------------------------------	2412
+NP_001367994.1         IIGRRT-----------IIKASGI------------------------------------	1507
+                        .                                                          
+
+NP_445980.2            --VVTERAWTGGTESEMFNKLESIAMSDTPRTPVLGCCISRALEP--------SVVQGEF	1069
+NP_496592.1            NPDEPRRLFVGGYESSTFNFLETSAAAHDLRTPILGCQIADSLGKLPEGTPDSAYFDRKY	939
+DNA_pol_A-sample1      --------------------------------------------------ITAVVGSVRI	285
+NP_001099348.1         --------------------------------------------------NNP-YHKAHA	2421
+NP_001367994.1         ----------------------------------------------------G-EERARI	1514
+                                                                                 . 
+
+NP_445980.2            MTSRVNWVVQSSAVDYLHLMLVAMKWLFEEFAI---------------------------	1102
+NP_496592.1            KRSVMNWIVQSSAVDFLHLLLVSMQWLCDTYKI---------------------------	972
+DNA_pol_A-sample1      YGAINNEDLQGTVASIIRVGLIEIAAFLENKDYQ--------------------------	319
+NP_001099348.1         ERQAINTTVQGSAADIVKVATVNIQKQLETFHPTFKSHGHRESMLQSDRAGLLPKRKVKG	2481
+NP_001367994.1         ERVAVNYTIQGSASEIFKTAIVDIESKIKEFGAQ--------------------------	1548
+                            *  :*.:. . .:   : :    .                               
+
+NP_445980.2            ------DGRFCISIHDEVRYLVREEDRYRAALALQITNLLTRCMFAYKLGLNDLPQSVAF	1156
+NP_496592.1            ------DARFVISIHDEVRYMCKEPDAPRLALALQLSNLLVRAYISQRVGICQLPNTVAF	1026
+DNA_pol_A-sample1      ------RAVYLSQVHDNGVHSMQGRIVIAYTKLVR---YHMEEEHDAYI-------TVIL	363
+NP_001099348.1         MFCPMRGGFFILQLHDELLYEVAEEDVVQVAQIVK---NEMECAI--KL-------SVKL	2529
+NP_001367994.1         ---------IVLTIHDEVLVECPEIHVAAASESIE---NCMQNALSHLL-------RVPM	1589
+                                    :**:             :  :.      .      :        * :
+
+NP_445980.2            FSAVDIDQCLRKEVTMDCKTPSNPTGMERKYGIPQGEALDIYQIIELTKGSLEKRSQPGP	1216
+NP_496592.1            FSQVDCDTVLRKEVDTESINPDGS-------KIADGVAWTVDDLLKLTGGKLD-------	1072
+DNA_pol_A-sample1      RWEDDLGGCYDE------------------------------------------------	375
+NP_001099348.1         KVKVKIGASWGELKDFDV------------------------------------------	2547
+NP_001367994.1         RVSMKTGRSWADLK----------------------------------------------	1603
+                           . .    .                                                
